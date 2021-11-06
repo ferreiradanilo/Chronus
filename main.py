@@ -24,6 +24,7 @@ import pyttsx3
 import json
 import core
 from nlu.classifier import classify
+
 # Síntese de fala
 engine = pyttsx3.init()
 
